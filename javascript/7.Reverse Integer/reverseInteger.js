@@ -31,3 +31,5 @@ var reverse = function (x) {
   }
   return revNum;
 };
+
+// const reverse = n => (n < 0 ? -1 : 1) * +("" + Math.abs(n)).split``.reverse().join``;
