@@ -9,3 +9,4 @@
 | 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                   | Javascript | Medium     |
 | 6      | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Javascript | Medium     |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | Javascript | Easy       |
+| 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | Medium     |
