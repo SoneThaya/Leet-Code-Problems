@@ -10,3 +10,4 @@
 | 6      | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Javascript | Medium     |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | Javascript | Easy       |
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | Medium     |
+| 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Easy       |
