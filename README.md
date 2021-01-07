@@ -12,4 +12,5 @@
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | String      | Medium     |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 | Javascript | Number      | Easy       |
+| 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Javascript | Array      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | Array       | Easy       |
