@@ -12,6 +12,7 @@
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | String      | Medium     |
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Javascript | String      | Easy       |
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
+| 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Javascript | Linked List | Easy       |
