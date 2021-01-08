@@ -10,6 +10,7 @@
 | 6      | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Javascript | String      | Medium     |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | Javascript | Number      | Easy       |
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | String      | Medium     |
+| 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Javascript | String      | Easy       |
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
