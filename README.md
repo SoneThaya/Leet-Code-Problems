@@ -13,6 +13,7 @@
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
+| 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Javascript | Linked List | Easy       |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 | Javascript | Number      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | String      | Easy       |
