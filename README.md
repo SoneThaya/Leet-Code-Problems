@@ -11,6 +11,7 @@
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | Javascript | Number      | Easy       |
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | String      | Medium     |
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Javascript | String      | Easy       |
+| 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Javascript | String      | Easy       |
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
