@@ -13,6 +13,7 @@
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Javascript | String      | Easy       |
 | 14     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Javascript | String      | Easy       |
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
+| 27     | [Remove Elements](https://leetcode.com/problems/remove-element/)                                                                | Javascript | Array       | Easy       |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
