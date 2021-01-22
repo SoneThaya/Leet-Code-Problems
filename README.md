@@ -18,6 +18,7 @@
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
+| 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Javascript | String      | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Javascript | Linked List | Easy       |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Javascript | String      | Easy       |
