@@ -15,9 +15,10 @@
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
 | 27     | [Remove Elements](https://leetcode.com/problems/remove-element/)                                                                | Javascript | Array       | Easy       |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                           | Javascript | String      | Easy       |
-| 35     | [Implement strStr()](https://leetcode.com/problems/search-insert-position/)                                                     | Javascript | Array       | Easy       |
+| 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Javascript | Array       | Easy       |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
+| 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Javascript | String      | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Javascript | String      | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
