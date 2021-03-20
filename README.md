@@ -30,3 +30,4 @@
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                     | Javascript | Linked List | Medium     |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                     | Javascript | String      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | String      | Easy       |
+| 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                     | Javascript | String      | Medium     |
