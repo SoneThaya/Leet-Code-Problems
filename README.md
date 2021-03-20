@@ -15,6 +15,7 @@
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         | Javascript | Array       | Easy       |
 | 27     | [Remove Elements](https://leetcode.com/problems/remove-element/)                                                                | Javascript | Array       | Easy       |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                           | Javascript | String      | Easy       |
+| 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Javascript | Array       | Medium     |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Javascript | Array       | Easy       |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
