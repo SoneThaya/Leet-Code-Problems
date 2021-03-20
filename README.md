@@ -34,4 +34,5 @@
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                     | Javascript | String      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | String      | Easy       |
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                     | Javascript | String      | Medium     |
+| 1119   | [Remove Vowels From a String](https://leetcode.com/problems/remove-vowels-from-a-string/)                                       | Javascript | String      | Easy       |
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                           | Javascript | Array       | Easy       |
