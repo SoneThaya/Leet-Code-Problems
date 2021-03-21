@@ -31,6 +31,7 @@
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 | Javascript | Number      | Easy       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                     | Javascript | Linked List | Medium     |
+| 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                       | Javascript | String      | Easy       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                     | Javascript | String      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | String      | Easy       |
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                     | Javascript | String      | Medium     |
