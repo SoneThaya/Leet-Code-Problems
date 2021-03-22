@@ -19,6 +19,7 @@
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Javascript | Array       | Easy       |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
+| 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   | Javascript | Array       | Medium     |
 | 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Javascript | String      | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Javascript | String      | Easy       |
