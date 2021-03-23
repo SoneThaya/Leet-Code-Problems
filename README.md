@@ -23,6 +23,7 @@
 | 58     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Javascript | String      | Easy       |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Javascript | Array       | Easy       |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Javascript | String      | Easy       |
+| 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 | Javascript | Binary Tree | Easy       |
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                     | Javascript | Linked List | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Javascript | Array       | Medium     |
