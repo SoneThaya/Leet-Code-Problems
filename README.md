@@ -45,4 +45,5 @@
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                             | Javascript | String      | Easy       |
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                     | Javascript | String      | Medium     |
 | 1119   | [Remove Vowels From a String](https://leetcode.com/problems/remove-vowels-from-a-string/)                                       | Javascript | String      | Easy       |
+| 1351   | [Count Negative Numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                              | Javascript | Array       | Easy       |
 | 1470   | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                           | Javascript | Array       | Easy       |
