@@ -17,6 +17,7 @@
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                           | Javascript | String      | Easy       |
 | 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Javascript | Array       | Medium     |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Javascript | Array       | Easy       |
+| 48     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Javascript | Array       | Medium     |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
 | 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                   | Javascript | Array       | Medium     |
