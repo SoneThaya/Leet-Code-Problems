@@ -29,6 +29,7 @@
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                     | Javascript | Binary Tree | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Javascript | Array       | Easy       |
+| 153    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Javascript | Array       | Medium     |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Javascript | Array       | Easy       |
 | 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                     | Javascript | Array       | Medium     |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Javascript | Array       | Medium     |
