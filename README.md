@@ -30,6 +30,7 @@
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Javascript | Array       | Easy       |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Javascript | Array       | Easy       |
+| 189    | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                     | Javascript | Array       | Medium     |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Javascript | Array       | Medium     |
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Javascript | Linked List | Easy       |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Javascript | String      | Easy       |
