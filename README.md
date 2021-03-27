@@ -10,6 +10,7 @@
 | 6      | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                           | Javascript | String      | Medium     |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | Javascript | Number      | Easy       |
 | 8      | [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                               | Javascript | String      | Medium     |
+| 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Javascript | String      | easy       |
 | 11     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Javascript | Array       | Medium     |
 | 12     | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | Javascript | String      | Medium     |
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Javascript | String      | Easy       |
