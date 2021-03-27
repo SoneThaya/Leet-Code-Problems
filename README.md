@@ -32,6 +32,7 @@
 | 73     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                           | Javascript | Array       | Medium     |
 | 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 | Javascript | Binary Tree | Easy       |
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                     | Javascript | Binary Tree | Easy       |
+| 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | Javascript | Binary Tree | Easy       |
 | 121    | [Best Time To Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                   | Javascript | Array       | Easy       |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Javascript | Array       | Easy       |
 | 153    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Javascript | Array       | Medium     |
