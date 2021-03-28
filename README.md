@@ -45,6 +45,7 @@
 | 252    | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                   | Javascript | Array       | Easy       |
 | 253    | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                             | Javascript | Array       | Medium     |
 | 278    | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Javascript | Array       | Easy       |
+| 279    | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                               | Javascript | Array       | Medium     |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 | Javascript | Number      | Easy       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                     | Javascript | Linked List | Medium     |
