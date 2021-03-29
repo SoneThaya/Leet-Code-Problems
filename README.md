@@ -53,6 +53,7 @@
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                       | Javascript | String      | Easy       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                     | Javascript | String      | Easy       |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | Javascript | String      | Easy       |
+| 771    | [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/)                                                            | Javascript | String      | Easy       |
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                             | Javascript | String      | Easy       |
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                     | Javascript | String      | Medium     |
 | 1119   | [Remove Vowels From a String](https://leetcode.com/problems/remove-vowels-from-a-string/)                                       | Javascript | String      | Easy       |
