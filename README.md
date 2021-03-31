@@ -49,6 +49,7 @@
 | 278    | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | Javascript | Array       | Easy       |
 | 279    | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                               | Javascript | Array       | Medium     |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | Javascript | Array       | Easy       |
+| 303    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                         | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                 | Javascript | Number      | Easy       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                     | Javascript | Linked List | Medium     |
 | 347    | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                               | Javascript | Array       | Medium     |
