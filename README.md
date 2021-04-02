@@ -23,6 +23,7 @@
 | 33     | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Javascript | Array       | Medium     |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Javascript | Array       | Easy       |
 | 39     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                               | Javascript | Array       | Easy       |
+| 42     | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                       | Javascript | Array       | Hard       |
 | 48     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                     | Javascript | Array       | Medium     |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Javascript | Array       | Easy       |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Javascript | Array       | Easy       |
