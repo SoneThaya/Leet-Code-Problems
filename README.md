@@ -43,6 +43,7 @@
 | 198    | [Rotate Array](https://leetcode.com/problems/house-robber/)                                                                     | Javascript | Array       | Medium     |
 | 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                       | Javascript | Array       | Medium     |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Javascript | Array       | Medium     |
+| 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                     | Javascript | Array       | Easy       |
 | 234    | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Javascript | Linked List | Easy       |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Javascript | String      | Easy       |
 | 252    | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                   | Javascript | Array       | Easy       |
