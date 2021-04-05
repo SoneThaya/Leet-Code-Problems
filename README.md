@@ -25,6 +25,7 @@
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   | Javascript | Array       | Easy       |
 | 36     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                       | Javascript | Array       | Medium     |
 | 39     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                 | Javascript | Array       | Easy       |
+| 41     | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                   | Javascript | Array       | Hard       |
 | 42     | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                         | Javascript | Array       | Hard       |
 | 48     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                       | Javascript | Array       | Medium     |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                   | Javascript | Array       | Easy       |
