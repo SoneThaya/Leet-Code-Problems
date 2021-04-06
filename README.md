@@ -38,6 +38,7 @@
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | Javascript | Array       | Easy       |
 | 73     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                             | Javascript | Array       | Medium     |
 | 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                           | Javascript | Array       | Medium     |
+| 88     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                           | Javascript | Array       | Easy       |
 | 101    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                   | Javascript | Binary Tree | Easy       |
 | 110    | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                       | Javascript | Binary Tree | Easy       |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                               | Javascript | Binary Tree | Easy       |
