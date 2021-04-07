@@ -36,6 +36,7 @@
 | 59     | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                               | Javascript | Array       | Medium     |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                               | Javascript | Array       | Easy       |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                           | Javascript | String      | Easy       |
+| 68     | [Add Binary](https://leetcode.com/problems/text-justification/)                                                                                   | Javascript | Array       | Hard       |
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | Javascript | Array       | Easy       |
 | 73     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                                             | Javascript | Array       | Medium     |
 | 74     | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                           | Javascript | Array       | Medium     |
