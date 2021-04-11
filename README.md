@@ -69,6 +69,7 @@
 | 347    | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                 | Javascript | Array       | Medium     |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                         | Javascript | String      | Easy       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                                       | Javascript | String      | Easy       |
+| 424    | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                 | Javascript | String      | Medium     |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                   | Javascript | String      | Easy       |
 | 771    | [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/)                                                                              | Javascript | String      | Easy       |
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                               | Javascript | String      | Easy       |
