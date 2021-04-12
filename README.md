@@ -66,6 +66,7 @@
 | 303    | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                                           | Javascript | Array       | Easy       |
 | 326    | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                                                   | Javascript | Number      | Easy       |
 | 328    | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                                       | Javascript | Linked List | Medium     |
+| 343    | [Integer Break](https://leetcode.com/problems/integer-break/)                                                                 | Javascript | Array       | Medium     |
 | 347    | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                                 | Javascript | Array       | Medium     |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                                         | Javascript | String      | Easy       |
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                                       | Javascript | String      | Easy       |
