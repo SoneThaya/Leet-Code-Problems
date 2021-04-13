@@ -73,6 +73,7 @@
 | 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/)                                                                       | Javascript | String              | Easy       |
 | 424    | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                                 | Javascript | String              | Medium     |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                                   | Javascript | String              | Easy       |
+| 674    | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                             | Javascript | Array               | Easy       |
 | 771    | [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/)                                                                              | Javascript | String              | Easy       |
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                               | Javascript | String              | Easy       |
 | 997    | [Most Common Word](https://leetcode.com/problems/find-the-town-judge/)                                                                            | Javascript | Array               | Easy       |
