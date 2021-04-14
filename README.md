@@ -20,6 +20,7 @@
 | 17     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                     | Javascript | String              | Medium     |
 | 19     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                               | Javascript | Linked List         | Medium     |
 | 22     | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                                       | Javascript | String              | Medium     |
+| 24     | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                         | Javascript | Linked List         | Medium     |
 | 26     | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                                           | Javascript | Array               | Easy       |
 | 27     | [Remove Elements](https://leetcode.com/problems/remove-element/)                                                                                  | Javascript | Array               | Easy       |
 | 28     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                                             | Javascript | String              | Easy       |
