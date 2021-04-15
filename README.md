@@ -78,6 +78,7 @@
 | 771    | [Jewels and Stone](https://leetcode.com/problems/jewels-and-stones/)                                                                              | Javascript | String              | Easy       |
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                               | Javascript | String              | Easy       |
 | 997    | [Most Common Word](https://leetcode.com/problems/find-the-town-judge/)                                                                            | Javascript | Array               | Easy       |
+| 1013   | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)                 | Javascript | Array               | Easy       |
 | 1048   | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/)                                                                       | Javascript | String              | Medium     |
 | 1119   | [Remove Vowels From a String](https://leetcode.com/problems/remove-vowels-from-a-string/)                                                         | Javascript | String              | Easy       |
 | 1351   | [Count Negative Numbers](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                                                | Javascript | Array               | Easy       |
