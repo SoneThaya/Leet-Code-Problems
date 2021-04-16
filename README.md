@@ -62,6 +62,7 @@
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                     | Javascript | String              | Easy       |
 | 252    | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                                                     | Javascript | Array               | Easy       |
 | 253    | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                                               | Javascript | Array               | Medium     |
+| 268    | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                                   | Javascript | Array               | Easy       |
 | 278    | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | Javascript | Array               | Easy       |
 | 279    | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                                 | Javascript | Array               | Medium     |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                         | Javascript | Array               | Easy       |
